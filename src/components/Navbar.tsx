@@ -10,7 +10,7 @@ export default function Navbar() {
     >
       <div className="max-w-5xl mx-auto px-6 h-20 flex items-center justify-between">
         <a href="#" className="font-bold text-xl tracking-tighter uppercase">
-          NKT<span className="text-muted-foreground">_WEB</span>
+          Nikita<span className="text-muted-foreground">_WEB</span>
         </a>
         
         <div className="hidden md:flex gap-8 font-mono text-sm uppercase tracking-widest">

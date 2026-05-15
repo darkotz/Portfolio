@@ -3,17 +3,17 @@ import { motion } from 'framer-motion';
 const projects = [
   {
     id: 1,
-    title: "Campaign Alpha",
+    title: "QM Group",
     category: "Landing Page",
     image: "/project_1.png",
-    link: "#"
+    link: "https://www.qmgroup.se"
   },
   {
     id: 2,
-    title: "System UI Beta",
-    category: "Component Library",
+    title: "Ovolo",
+    category: "E-Commerce",
     image: "/project_2.png",
-    link: "#"
+    link: "https://ovolo-alpha.vercel.app"
   }
 ];
 
